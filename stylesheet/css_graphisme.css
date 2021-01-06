@@ -1,0 +1,34 @@
+.title{
+    padding-left: 10%;
+}
+
+.bloc_graphisme{
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 10%;
+}
+
+.dim_ppgraphisme{
+    width: 600px;
+    height: 600px;
+}
+
+.dim_rb{
+    height: 700px;
+}
+
+.txt_right{
+    text-align: right;
+}
+
+.dim_trippie{
+    width: 1920px;
+    height: 900px;
+    padding: 7% 0;
+    object-fit: cover;
+    object-position: 0 55%;
+}
+
+.dim_titre{
+    width: 600px;
+}

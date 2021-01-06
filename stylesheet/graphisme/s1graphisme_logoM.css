@@ -1,0 +1,33 @@
+.exit{
+    padding: 2% 10%;
+    width: 3%;
+}
+
+.tshirt{
+    width: 1920px;
+    height: 900px;
+    padding: 7% 0;
+    object-fit: cover;
+    object-position: 0 50%;
+}
+
+.logosM{
+    padding: 7% 0;
+    width: 1920px;
+}
+
+.made_w{
+    text-align: right;
+    padding-right: 20%;
+    padding-bottom: 5%;
+}
+
+/*css de s2graphisme_hypnose.html*/
+
+.lettre{
+    width: 1920px;
+    height: 1080px;
+    padding: 7% 0;
+    object-fit: cover;
+    object-position: 0 47.5%;
+}

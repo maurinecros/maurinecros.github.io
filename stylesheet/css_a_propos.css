@@ -1,0 +1,105 @@
+.pp{
+    width: 1920px;
+    height: 700px;
+    background-image: url('../images/pictures/profil_pic.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bloc_pres{
+   /* padding-left: 20%;*/
+    width: 45%;
+}
+
+.mail{
+    color: #F9495F;
+    text-decoration: none;
+}
+
+.mail:hover{
+    color:  black;
+    transition: 0.4s;
+}
+
+.logo{
+   width: 400px;
+}
+
+.dim_pres{
+   /* width: 60%;*/
+    padding-left: 20%;
+    padding-right: 20%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+.align{
+    text-align: center;
+    padding: 2% 0;
+}
+
+footer a:hover{
+    color: #F9495F;
+    transition:0.4s;
+}
+
+footer{
+    background-color: #382F42;
+    color: #f5f4f5;
+}
+
+.w_color{
+    color: #f5f4f5;
+}
+
+.dim_rsx{
+    width: 30%;
+}
+
+.rsx_f{
+    height: 30px;
+}
+
+.mail_f{
+    color: #f5f4f5;
+}
+
+.mail_f:hover{
+    color: #F9495F;
+    transition:0.4s;
+}
+
+.cv_mail{
+    width: 50%;
+    justify-content: space-between;
+}
+
+/*
+.scrolltop{
+    width: 100%;
+    margin: 0 auto;
+    position : fixed;
+    bottom: 20px;
+    right : 10px;
+    display: none;
+}
+
+.scroll{
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    background: grey;
+    opacity: 0.7;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.scroll:hover{
+    background: white;
+    transition: 0.5;
+}
+*/

@@ -1,0 +1,64 @@
+.bloc_webdesign{
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 10%;
+}
+
+.dim_phone{
+    padding-left: 10%;
+    width: 350px;
+}
+
+.dim_mascotte{
+    height: 800px;
+}
+
+.mascotte_phone{
+    justify-content:space-between;
+    padding-left: 10%;
+}
+
+.center_text{
+    text-align: center;
+}
+
+.padding_bottom{
+    padding-bottom: 7%;
+}
+
+.padding_top{
+    padding-top: 7%;
+}
+
+.dim_ours{
+    width: 40%;
+}
+
+.grande_photo_pres{
+    width: 1920px;
+    height: 950px;
+    padding: 7% 0;
+    object-fit: cover;
+    object-position: 0 20%;
+}
+
+.no_padding{
+    padding: 0;
+}
+
+.grille{
+    width: 80%;
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 600px);
+    justify-content: space-between;
+    grid-gap: 10px;
+}
+
+.grid_item{
+    width: 600px;
+}
+
+.align_r{
+    padding-left: 52%;
+}
