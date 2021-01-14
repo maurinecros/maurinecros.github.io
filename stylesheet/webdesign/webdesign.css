@@ -6,11 +6,11 @@
 
 .dim_phone{
     padding-left: 10%;
-    width: 350px;
+    width: 18vw;
 }
 
 .dim_mascotte{
-    height: 800px;
+    height: 90vh;
 }
 
 .mascotte_phone{
@@ -35,8 +35,8 @@
 }
 
 .grande_photo_pres{
-    width: 1920px;
-    height: 950px;
+    width: 99vw;
+    height: 90vh;
     padding: 7% 0;
     object-fit: cover;
     object-position: 0 20%;

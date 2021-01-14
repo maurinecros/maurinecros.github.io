@@ -53,15 +53,10 @@ nav a{
 }
 
 .logo_home{
-    height: 800px;
+    height: 80vh;
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-
-.rsx{
-    height: 80px;
 }
 
 .flex{

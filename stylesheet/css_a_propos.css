@@ -1,13 +1,11 @@
 .pp{
-    width: 1920px;
-    height: 700px;
+    height: 80vh;
     background-image: url('../images/pictures/profil_pic.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
 
 .bloc_pres{
-   /* padding-left: 20%;*/
     width: 45%;
 }
 
@@ -22,11 +20,10 @@
 }
 
 .logo{
-   width: 400px;
+   width: 20vw;
 }
 
 .dim_pres{
-   /* width: 60%;*/
     padding-left: 20%;
     padding-right: 20%;
     justify-content: space-between;
@@ -39,17 +36,12 @@ footer a{
 
 .align{
     text-align: center;
-    padding: 2% 0;
+    padding: 4% 0;
 }
 
 footer a:hover{
     color: #F9495F;
     transition:0.4s;
-}
-
-footer{
-    background-color: #382F42;
-    color: #f5f4f5;
 }
 
 .w_color{
@@ -61,11 +53,11 @@ footer{
 }
 
 .rsx_f{
-    height: 30px;
+    height: 3vh;
 }
 
 .mail_f{
-    color: #f5f4f5;
+    color: black;
 }
 
 .mail_f:hover{
@@ -76,6 +68,10 @@ footer{
 .cv_mail{
     width: 50%;
     justify-content: space-between;
+}
+
+.arrow{
+    height: 4vh;
 }
 
 /*

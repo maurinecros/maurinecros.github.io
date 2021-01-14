@@ -14,7 +14,7 @@
 }
 
 .dim_rb{
-    height: 700px;
+    width: 40vw;
 }
 
 .txt_right{
@@ -22,13 +22,17 @@
 }
 
 .dim_trippie{
-    width: 1920px;
-    height: 900px;
+   width: 99vw ;
+    height: 100vh;
     padding: 7% 0;
     object-fit: cover;
     object-position: 0 55%;
 }
 
 .dim_titre{
-    width: 600px;
+    width: 40vw;
+}
+
+.goback{
+    max-width: 1%;
 }
