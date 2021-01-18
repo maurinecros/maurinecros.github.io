@@ -47,6 +47,10 @@ nav a{
     padding: 20px 30px;
 }
 
+.menu:visited{
+    color: black;
+}
+
 .menu :hover{
     color: #F9495F;
     transition: 0.4s;
