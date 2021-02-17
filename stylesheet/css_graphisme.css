@@ -36,3 +36,24 @@
 .goback{
     max-width: 1%;
 }
+
+.inner-img {
+  transition: 0.5s;
+}
+
+.inner-img:hover {
+    transform: scale(1.2);
+  }
+
+.img-test{
+    width: 100%;
+  height: 100%;
+  object-fit: cover;
+  text-align: center;
+}
+
+.img-wrapper {
+    min-width: 23%;
+    overflow: hidden;
+    flex: 1;
+  }

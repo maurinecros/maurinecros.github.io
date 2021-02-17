@@ -68,3 +68,8 @@ nav a{
     justify-content: space-between;
     padding: 3% 2% 1.5% 2%; /*haut, droite, bas, gauche*/
 }
+
+.objEffect {
+    will-change: transform;
+    transition: transform .3s linear;
+  }
