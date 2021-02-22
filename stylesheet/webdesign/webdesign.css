@@ -62,3 +62,17 @@
 .align_r{
     padding-left: 52%;
 }
+
+/* css de b.game */
+
+.vertical{
+    vertical-align: bottom;
+}
+
+.black{
+    background-color: #0D1019;
+}
+
+.black p{
+    color: whitesmoke;
+}
